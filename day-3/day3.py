@@ -28,7 +28,7 @@ for (claim_number, start_x, start_y, width, height) in claims:
         for j in range(start_y, start_y + height):
             if m[(i,j)]:
                 # If the space already exists in the dictionary, then add the
-                # the claim number onto the other fields
+                # previous key and the new key to the overlaps folder
                 for number in m[(i, j)]:
                     overlaps[number].add(claim_number) # Add both ways
                     overlaps[claim_number].add(number) # Add both ways

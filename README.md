@@ -19,5 +19,5 @@ I also want to try and write unit tests for everything, just to try and encourag
 - Using `Counter` from `collections` to count the number of letters in a string.
 
 ### Day 3
-- Regular Expressions (though I didn't really learn this - rather just copied from Reddit)
-- 
+- Regular Expressions (though I didn't really learn this - rather just copied all of this from Reddit)
+- Using `defaultdict` to have a dictionary with a key and then multiple values
