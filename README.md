@@ -17,3 +17,7 @@ I also want to try and write unit tests for everything, just to try and encourag
 - Using `enumerate` to get an itemised list.
 - Loading in a text file into a list
 - Using `Counter` from `collections` to count the number of letters in a string.
+
+### Day 3
+- Regular Expressions (though I didn't really learn this - rather just copied from Reddit)
+- 
