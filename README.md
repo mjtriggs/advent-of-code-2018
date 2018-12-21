@@ -11,7 +11,7 @@ I also want to try and write unit tests for everything, just to try and encourag
 
 ### Day 1
 - Using `itertools` to cycle through the lists is far quicker than any loop
-- Using a dictionary (i.e. curly brackets `{}`)
+- Using a dictionary (i.e. curly brackets `{}`).
 
 ### Day 2
 - Using `enumerate` to get an itemised list.
@@ -20,4 +20,10 @@ I also want to try and write unit tests for everything, just to try and encourag
 
 ### Day 3
 - Regular Expressions (though I didn't really learn this - rather just copied all of this from Reddit)
-- Using `defaultdict` to have a dictionary with a key and then multiple values
+- Using `defaultdict` to have a dictionary with a key and then multiple values.
+
+### Day 4
+- This is a really hard advent calendar! I think I prefer chocolate.
+- Continued to use `defaultdict` from the previous day.
+- Using the `.split()` function instead of regular expressions when all lines have a similar structure.
+- `argmax()` to return the index/location of the maximum rather than a value.
