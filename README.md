@@ -13,7 +13,7 @@ I also want to try and write unit tests for everything, just to try and encourag
 - Using `itertools` to cycle through the lists is far quicker than any loop
 - Using a dictionary (i.e. curly brackets `{}`).
 
-### Day 2
+### Day 2
 - Using `enumerate` to get an itemised list.
 - Loading in a text file into a list
 - Using `Counter` from `collections` to count the number of letters in a string.
