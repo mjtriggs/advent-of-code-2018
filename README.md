@@ -27,3 +27,8 @@ I also want to try and write unit tests for everything, just to try and encourag
 - Continued to use `defaultdict` from the previous day.
 - Using the `.split()` function instead of regular expressions when all lines have a similar structure.
 - `argmax()` to return the index/location of the maximum rather than a value.
+
+### Day 5
+- The solution on Reddit was so simple and clean for this, I just copied it and explained what was going on.
+- Again we use list comprehension, but also the `.pop()` and `.append()` things are used. I'd particularly never seen `.pop()` before, but it could be useful.
+- `ascii_lowercase` is imported from the `string` library as a reference string used in the second part.
